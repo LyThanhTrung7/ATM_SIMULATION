@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/atm.png</file>
+        <file>image/hinh-anh-ngan-hang-thuong-mai-6.jpg</file>
+        <file>image/logoATM.jpg</file>
+        <file>image/logoatm.png</file>
+    </qresource>
+</RCC>
