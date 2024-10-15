@@ -1,0 +1,9 @@
+-rootPath
+E:/QT_DESIGNER/ATM_SIMULATION/ATM_PROJECT
+-cmake-output
+-output-file
+E:/QT_DESIGNER/ATM_SIMULATION/ATM_PROJECT/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ATM_PROJECT.cmake
+-importPath
+E:/QT_DESIGNER/ATM_SIMULATION/ATM_PROJECT/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+D:/QT_DESIGNER/6.5.3/mingw_64/./qml

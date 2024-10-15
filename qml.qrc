@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuUser/MenuUser.qml</file>
+        <file>MenuAD/MenuAD.qml</file>
+        <file>Login/Login.qml</file>
+        <file>image/atm.png</file>
+        <file>image/hinh-anh-ngan-hang-thuong-mai-6.jpg</file>
+        <file>image/logoATM.jpg</file>
+        <file>image/logoatm.png</file>
+    </qresource>
+</RCC>

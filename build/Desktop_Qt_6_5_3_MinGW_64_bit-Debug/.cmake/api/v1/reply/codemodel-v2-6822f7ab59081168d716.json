@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-38b76eabc94e20984990.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ATM_PROJECT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ATM_PROJECT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ATM_PROJECT-Debug-92de4d256954848e8e08.json",
+					"name" : "ATM_PROJECT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ATM_PROJECT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ATM_PROJECT_autogen-Debug-bff26f0d9c45c0b474f0.json",
+					"name" : "ATM_PROJECT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ATM_PROJECT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ATM_PROJECT_autogen_timestamp_deps-Debug-7580fabf5c0ceb1a095c.json",
+					"name" : "ATM_PROJECT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ATM_PROJECT_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ATM_PROJECT_qmlimportscan-Debug-9ea570098eea7268552b.json",
+					"name" : "ATM_PROJECT_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QT_DESIGNER/ATM_SIMULATION/ATM_PROJECT/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "E:/QT_DESIGNER/ATM_SIMULATION/ATM_PROJECT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
